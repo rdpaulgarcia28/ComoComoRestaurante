@@ -1,0 +1,78 @@
+.logo{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.navbar-position{
+    position: absolute;
+    width: 100vw;
+}
+.width-photo{
+    min-width: 100%;
+}
+.img-promo{
+    width: 100%;
+}
+.separador{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.letrasImg{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.container_map{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.container_map--reverse{
+    flex-wrap: wrap-reverse;
+}
+.text_map{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    margin: 10px 0;
+}
+.titule_map{
+    letter-spacing: -.05rem;
+    line-height: 1;
+    font-weight: 400;
+    font-size: calc(1.325rem + 0.9vw);
+}
+.address_map{
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.box_map{
+    width: 400px;
+    height: 400px;
+    margin: 10px 0;
+}
+.ifame_map{
+    width: 100%;
+    height: 100%;
+}
+body::-webkit-scrollbar{
+    width: 4px;
+    background-color:rgba(0, 0, 0, 0.953);
+  }
+  body::-webkit-scrollbar-thumb{
+    background-color: rgba(255, 255, 255, 9);
+    border-radius: 3px;
+  }
+
+

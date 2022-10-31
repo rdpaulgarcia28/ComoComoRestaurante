@@ -1,0 +1,4 @@
+#79D9D9 azul
+#592418 cafe
+#732E1F cafe claro
+#F2F2F2 gris
